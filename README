@@ -1,0 +1,10 @@
+This is a quick hack to convert the UDP messages from 
+the S1 MIDI Trigger iPad app (http://web.me.com/miu.aco/miuaco-software/)
+into ALSA MIDI messages.
+
+Comments - ayourtch@gmail.com.
+
+This is in no way associated with original iPad app. No warranties, etc.
+
+
+
